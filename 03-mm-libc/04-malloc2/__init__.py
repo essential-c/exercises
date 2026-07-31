@@ -45,5 +45,5 @@ def output_correct():
 
 @check50.check(compiles)
 def valgrind_memcheck():
-    check50.c.valgrind("./malloc2 3 5").exit()
+    check50.c.valgrind("./malloc2").exit()
 
