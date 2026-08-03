@@ -25,7 +25,7 @@ $ ./leap 2100
 ```
 
 > **Hint.**
-> Use the modulo operator `\%` to check if a number is divisible by another, e.g., `a \% b` evaluates to `0` if `a` is divisible by `b`, and to the remainder of the division of `a` by `b` if `a` is not divisible by `b`.
+> Use the modulo operator `%` to check if a number is divisible by another, e.g., `a % b` evaluates to `0` if `a` is divisible by `b`, and to the remainder of the division of `a` by `b` if `a` is not divisible by `b`.
 
 To check the correctness of your program, use a [suitable environment](../../README.md) and write your solution in a file named **`leap.c`**. In a terminal, with that file in the local directory, check with this command:
 

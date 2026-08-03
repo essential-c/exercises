@@ -13,7 +13,7 @@ Variable contains 93 and is located at address 0x7fffec3b3dfc
 
 % TODO has this been presented previously?
 > **Printing Pointer Values.**
-> Pointer values can be printed in hexadecimal and prefixed with `0x` using the `\%p` format specifier for `printf`.
+> Pointer values can be printed in hexadecimal and prefixed with `0x` using the `%p` format specifier for `printf`.
 
 To check the correctness of your program, use a [suitable environment](../../README.md) and write your solution in a file named **`pointer3.c`**. In a terminal, with that file in the local directory, check with this command:
 
