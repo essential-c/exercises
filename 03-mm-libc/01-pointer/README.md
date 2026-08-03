@@ -40,4 +40,4 @@ check50 03-mm-libc/01-pointer
 
 ---
 
-[← Previous exercise](../17-stream/README.md) | [Next exercise →](../02-pointer2/README.md)
+[← Previous exercise](../../02-basics/17-enum2/README.md) | [Next exercise →](../02-pointer2/README.md)

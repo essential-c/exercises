@@ -92,4 +92,4 @@ $ check50 -l --ansi-log olivierpierre/comp26020-problems/2025-2026/week4-compila
 
 ---
 
-[← Previous exercise](../../03-mm-libc/14-memcpy/README.md) | [Next exercise →](../02-macro-conditional/README.md)
+[← Previous exercise](../../03-mm-libc/17-stream/README.md) | [Next exercise →](../02-macro-conditional/README.md)

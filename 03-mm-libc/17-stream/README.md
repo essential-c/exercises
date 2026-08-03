@@ -37,4 +37,4 @@ Make sure that `sample-file-1` is in the current directory alongside `stream.c`
 
 ---
 
-[← Previous exercise](../16-strtol/README.md) | [Next exercise →](../01-pointer/README.md)
+[← Previous exercise](../16-strtol/README.md) | [Next exercise →](../04-building-debugging/01-macro/README.md)

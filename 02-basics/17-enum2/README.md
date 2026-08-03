@@ -55,7 +55,6 @@ FLAG3 enabled
 > 
 > **Bitwise operations in C:** C offers operators working on the bitwise representation of variables:
 > 
-> 
 > - bitwise AND: `\&` and OR `|`
 > - bitwise shift, left `<<` and right `>>`
 > - etc. For more information see the \emph{Arithmetic operators: bitwise logic and shifts operators} sections on CPPReference.com.
@@ -68,4 +67,4 @@ $ check50 02-basics/17-enum2
 
 ---
 
-[← Previous exercise](../16-triangle2/README.md) | [Next exercise →](../../03-mm-libc/05-malloc3/README.md)
+[← Previous exercise](../16-triangle2/README.md) | [Next exercise →](../../03-mm-libc/01-pointer/README.md)
