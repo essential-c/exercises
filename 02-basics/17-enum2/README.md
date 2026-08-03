@@ -1,6 +1,6 @@
 ## More on `enum`
 
-Enumerations can be used in C in combination with bitwise operations to define \emph{flags}, i.e. set of properties attached to objects, each object being able to have 0 or several properties enabled.
+Enumerations can be used in C in combination with bitwise operations to define **flags**, i.e. set of properties attached to objects, each object being able to have 0 or several properties enabled.
 
 Consider the following program:
 
