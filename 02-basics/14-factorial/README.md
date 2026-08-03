@@ -20,3 +20,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
  check50 02-basics/14-factorial
 ```
+
+---
+
+[← Previous exercise](../13-array2/README.md) | [Next exercise →](../15-triangle/README.md)

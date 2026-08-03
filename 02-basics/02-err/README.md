@@ -25,3 +25,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
 $ check50 02-basics/02-err
 ```
+
+---
+
+[← Previous exercise](../01-printf/README.md) | [Next exercise →](../03-variables/README.md)

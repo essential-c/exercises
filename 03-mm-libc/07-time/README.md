@@ -16,3 +16,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
 check50 03-mm-libc/07-time
 ```
+
+---
+
+[← Previous exercise](../06-string/README.md) | [Next exercise →](../09-pointer3/README.md)

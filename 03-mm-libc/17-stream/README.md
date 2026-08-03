@@ -34,3 +34,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```
 
 Make sure that `sample-file-1` is in the current directory alongside `stream.c`
+
+---
+
+[← Previous exercise](../16-strtol/README.md) | [Next exercise →](../01-pointer/README.md)

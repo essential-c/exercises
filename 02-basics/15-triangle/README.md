@@ -38,3 +38,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
  check50 02-basics/15-triangle
 ```
+
+---
+
+[← Previous exercise](../14-factorial/README.md) | [Next exercise →](../16-triangle2/README.md)

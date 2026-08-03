@@ -34,3 +34,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
  check50 03-mm-libc/05-malloc3
 ```
+
+---
+
+[← Previous exercise](../../02-basics/17-enum2/README.md) | [Next exercise →](../08-file/README.md)

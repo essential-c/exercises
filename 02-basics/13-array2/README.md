@@ -28,3 +28,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
 $ check50 02-basics/13-array2
 ```
+
+---
+
+[← Previous exercise](../12-enum/README.md) | [Next exercise →](../14-factorial/README.md)

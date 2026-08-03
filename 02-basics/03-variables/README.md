@@ -13,3 +13,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
 $ check50 02-basics/03-variables
 ```
+
+---
+
+[← Previous exercise](../02-err/README.md) | [Next exercise →](../04-sizes/README.md)

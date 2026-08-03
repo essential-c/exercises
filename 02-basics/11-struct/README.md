@@ -34,3 +34,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
  check50 02-basics/11-struct
 ```
+
+---
+
+[← Previous exercise](../10-typedef/README.md) | [Next exercise →](../12-enum/README.md)

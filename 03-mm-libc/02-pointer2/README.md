@@ -39,3 +39,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
  check50 03-mm-libc/02-pointer2
 ```
+
+---
+
+[← Previous exercise](../01-pointer/README.md) | [Next exercise →](../03-malloc/README.md)

@@ -22,3 +22,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
 $ check50 03-mm-libc/14-memcpy
 ```
+
+---
+
+[← Previous exercise](../13-string2/README.md) | [Next exercise →](../../04-building-debugging/01-macro/README.md)

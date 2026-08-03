@@ -74,3 +74,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
 $ check50 03-mm-libc/16-strtol
 ```
+
+---
+
+[← Previous exercise](../15-math/README.md) | [Next exercise →](../17-stream/README.md)

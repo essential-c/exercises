@@ -78,3 +78,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
 $ check50 -l --ansi-log olivierpierre/comp26020-problems/2025-2026/week4-compilation/04-makefile
 ```
+
+---
+
+[← Previous exercise](../03-module/README.md) | [Next exercise →](../05-cast/README.md)

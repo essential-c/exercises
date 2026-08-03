@@ -24,3 +24,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
 $ check50 03-mm-libc/06-string
 ```
+
+---
+
+[← Previous exercise](../04-malloc2/README.md) | [Next exercise →](../07-time/README.md)

@@ -91,3 +91,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
 $ check50 -l --ansi-log olivierpierre/comp26020-problems/2025-2026/week4-compilation/01-macro
 ```
+
+---
+
+[← Previous exercise](../../03-mm-libc/14-memcpy/README.md) | [Next exercise →](../02-macro-conditional/README.md)

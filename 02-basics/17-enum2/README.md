@@ -66,3 +66,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```c
  check50 02-basics/17-enum2
 ```
+
+---
+
+[← Previous exercise](../16-triangle2/README.md) | [Next exercise →](../../03-mm-libc/05-malloc3/README.md)

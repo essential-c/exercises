@@ -22,3 +22,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
 $ check50 02-basics/07-cmdline
 ```
+
+---
+
+[← Previous exercise](../06-string/README.md) | [Next exercise →](../08-leap/README.md)

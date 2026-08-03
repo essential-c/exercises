@@ -20,3 +20,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
 $ check50 02-basics/01-printf
 ```
+
+---
+
+[← Previous exercise](../01-intro/01-sample/README.md) | [Next exercise →](../02-err/README.md)

@@ -31,3 +31,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```
 
 Make sure that `sample-file-1` is in the current directory alongside `file.c`.
+
+---
+
+[← Previous exercise](../05-malloc3/README.md) | [Next exercise →](../11-malloc4/README.md)

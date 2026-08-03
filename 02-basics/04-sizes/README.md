@@ -15,3 +15,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
 $ check50 02-basics/04-sizes
 ```
+
+---
+
+[← Previous exercise](../03-variables/README.md) | [Next exercise →](../05-types/README.md)

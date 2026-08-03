@@ -42,3 +42,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
 $ check50 -l --ansi-log olivierpierre/comp26020-problems/2025-2026/week4-compilation/07-ascii
 ```
+
+---
+
+[← Previous exercise](../06-preprocessor/README.md) | [Next exercise →](../08-bug/README.md)

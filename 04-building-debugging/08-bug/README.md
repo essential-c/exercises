@@ -37,3 +37,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
 $ check50 -l --ansi-log olivierpierre/comp26020-problems/2025-2026/week4-compilation/08-bug
 ```
+
+---
+
+[← Previous exercise](../07-ascii/README.md) | [Next exercise →](#)

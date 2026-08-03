@@ -24,3 +24,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
 $ check50 03-mm-libc/15-math
 ```
+
+---
+
+[← Previous exercise](../11-malloc4/README.md) | [Next exercise →](../16-strtol/README.md)

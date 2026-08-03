@@ -16,3 +16,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
 $ check50 03-mm-libc/03-malloc
 ```
+
+---
+
+[← Previous exercise](../02-pointer2/README.md) | [Next exercise →](../04-malloc2/README.md)

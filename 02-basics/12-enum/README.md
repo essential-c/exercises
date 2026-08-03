@@ -53,3 +53,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
  check50 02-basics/12-enum
 ```
+
+---
+
+[← Previous exercise](../11-struct/README.md) | [Next exercise →](../13-array2/README.md)

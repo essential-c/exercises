@@ -17,3 +17,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
 $ check50 02-basics/09-array
 ```
+
+---
+
+[← Previous exercise](../08-leap/README.md) | [Next exercise →](../10-typedef/README.md)

@@ -46,3 +46,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```console
 $ check50 02-basics/06-string
 ```
+
+---
+
+[← Previous exercise](../05-types/README.md) | [Next exercise →](../07-cmdline/README.md)

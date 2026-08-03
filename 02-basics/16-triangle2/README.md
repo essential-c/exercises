@@ -41,3 +41,7 @@ To check the correctness of your program, use a [suitable environment](../../REA
 ```c
  check50 02-basics/16-triangle2
 ```
+
+---
+
+[← Previous exercise](../15-triangle/README.md) | [Next exercise →](../17-enum2/README.md)
