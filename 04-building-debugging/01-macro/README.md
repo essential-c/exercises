@@ -69,10 +69,8 @@ bin 4: [080 - 100[ ******************
 There are several redundant hardcoded numbers in the code of `macro.c` that should rather be defined as macros (constants) to ease the code clarity and the possibilities of evolution.
 Fix this problem by introducing at least 2 macros:
 
-\begin{itemize}
-\item `SAMPLE_SIZE` defining the size (i.e. number of integers) of the array manipulated by the program -- currently 1000 in the provided code sample
-\item `MAX_VAL` defining the value that the generated random integers can take as the range `[0 - MAX_VAL[`, currently 100 in the code sample.
-\end{itemize}
+- `SAMPLE_SIZE` defining the size (i.e. number of integers) of the array manipulated by the program -- currently 1000 in the provided code sample
+- `MAX_VAL` defining the value that the generated random integers can take as the range `[0 - MAX_VAL[`, currently 100 in the code sample.
 
 Define these macros to be 10 for `SAMPLE_SIZE` and 50 for `MAX_VAL`.
 An example of expected output is:

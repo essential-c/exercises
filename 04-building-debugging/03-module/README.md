@@ -65,12 +65,10 @@ int main(int argc, char **argv) {
 
 The objective of this exercise is to break down this monolithic code into several modules:
 
-\begin{itemize}
-\item `module1.c` and the corresponding header `module1.h`, containing `module1_function1` and `module1_function2`
-\item `module2.c` and `module2.h` containing `module2_function1`
-\item `module3.c` and `module3.h` containing `module3_function1` and `module3_enum`
-\item `main.c` containing the `main` function.
-\end{itemize}
+- `module1.c` and the corresponding header `module1.h`, containing `module1_function1` and `module1_function2`
+- `module2.c` and `module2.h` containing `module2_function1`
+- `module3.c` and `module3.h` containing `module3_function1` and `module3_enum`
+- `main.c` containing the `main` function.
 
 Take care of including in C files only the necessary headers.
 The expected output is:

@@ -2,11 +2,9 @@
 
 Consider the program compiled from the following files:
 
-\begin{itemize}
-\item `main.c`
-\item `module1.c` and the corresponding header `module1.h`.
-\item `module2.c` and the corresponding header `module2.h`.
-\end{itemize}
+- `main.c`
+- `module1.c` and the corresponding header `module1.h`.
+- `module2.c` and the corresponding header `module2.h`.
 
 The source code of each file is given below.
 

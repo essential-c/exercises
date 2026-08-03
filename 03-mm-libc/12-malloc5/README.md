@@ -42,11 +42,9 @@ int main(int argc, char **argv) {
 Write the function `my_realloc` that changes the size of a buffer previously allocated with `malloc` while preserving all or part of the buffer content according to the requested size.
 The function parameters are:
 
-\begin{itemize}
-\item `ptr`: buffer address
-\item `old_size`: current size of the buffer
-\item `new_size`: new size requested
-\end{itemize}
+- `ptr`: buffer address
+- `old_size`: current size of the buffer
+- `new_size`: new size requested
 
 The expected output is:
 
@@ -71,10 +69,10 @@ after realloc, array[9] = 90
 > **Memory copy in C.**
 > Memory copy is achieved with the `memcpy` function that takes 3 arguments: the destination address, the source address, and the number of bytes to copy.
 > To use it you'll need to `\#include <string.h>`.
-> See the manual page for `memcpy`\footnote{\url{https://man7.org/linux/man-pages/man3/memcpy.3.html}} for more information.
+> See the manual page for `memcpy` for more information.
 
 > **`realloc`.**
-> Note that the functionality that needs to be implemented in that exercise already exists in the form of the standard function `realloc` (see the relevant manual [page](https://man7.org/linux/man-pages/man3/realloc.3.html)
+> Note that the functionality that needs to be implemented in that exercise already exists in the form of the standard function `realloc` (see the relevant manual page
 
 To check the correctness of your program, use a [suitable environment](../../README.md) and write your solution in a file named **`malloc5.c`**. In a terminal, with that file in the local directory, check with this command:
 

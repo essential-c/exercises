@@ -1,6 +1,6 @@
 ## Working with Pointers (2)
 
-With a linked [list](https://en.wikipedia.org/wiki/Linked_list), the programmer uses pointer chains to link together data structures.
+With a linked list, the programmer uses pointer chains to link together data structures.
 In the example program below, a simple linked list with 3 elements is constructed, then the value of the last element is printed on the standard output:
 
 ```c

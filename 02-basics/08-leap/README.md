@@ -2,7 +2,7 @@
 
 Write a C program taking a year as command line parameter and printing out on the standard output if this year is leap or not.
 
-To determine if a year is leap, you can use the following algorithm (taken from [Wikipedia](https://en.wikipedia.org/wiki/Leap_year\#Algorithm)):
+To determine if a year is leap, you can use the following algorithm (taken from Wikipedia):
 
 ```console
 if (year is not divisible by 4)

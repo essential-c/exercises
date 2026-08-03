@@ -36,10 +36,8 @@ int main(int argc, char **argv) {
 
 Modify this program to use `typedef` to alias:
 
-\begin{itemize}
-\item `struct s_rectangle` into `rectangle`
-\item `unsigned long long int` into `ull`
-\end{itemize}
+- `struct s_rectangle` into `rectangle`
+- `unsigned long long int` into `ull`
 
 To check the correctness of your program, use a [suitable environment](../../README.md) and write your solution in a file named **`typedef.c`**. In a terminal, with that file in the local directory, check with this command:
 

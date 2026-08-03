@@ -55,11 +55,10 @@ FLAG3 enabled
 > 
 > **Bitwise operations in C:** C offers operators working on the bitwise representation of variables:
 > 
-> \begin{itemize}
-> \item bitwise AND: `\&` and OR `|`
-> \item bitwise shift, left `<<` and right `>>`
-> \item etc. For more information see the \emph{Arithmetic operators: bitwise logic and shifts operators} sections on CPPReference.com\footnote{\url{https://en.cppreference.com/w/c/language/operator_arithmetic}}.
-> \end{itemize}
+> 
+> - bitwise AND: `\&` and OR `|`
+> - bitwise shift, left `<<` and right `>>`
+> - etc. For more information see the \emph{Arithmetic operators: bitwise logic and shifts operators} sections on CPPReference.com.
 
 To check the correctness of your program, use a [suitable environment](../../README.md) and write your solution in a file named **`enum2.c`**. In a terminal, with that file in the local directory, check with this command:
 

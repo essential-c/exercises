@@ -15,7 +15,7 @@ And Following Our Will And Wind We May Just Go Where No One's Been
 ```
 
 > **Capitalising letters.**
-> Too capitalise letters see the `toupper`\footnote{\url{https://linux.die.net/man/3/toupper}} function.
+> Too capitalise letters see the `toupper` function.
 
 To check the correctness of your program, use a [suitable environment](../../README.md) and write your solution in a file named **`string2.c`**. In a terminal, with that file in the local directory, check with this command:
 
