@@ -11,9 +11,9 @@ $ ./cmdline 1.45 2.78 3.25
 ```
 
 > **Hints.**
-> \faExclamationTriangle~Use the type `double` rather than `float` to hold these values in order to pass the checks.
+> Use the type `double` rather than `float` to hold these values in order to pass the checks.
 > 
-> \vspace{.3cm}
+> 
 > 
 > To convert a string into a floating point number use `atof`, which usage is similar to that of `atoi` (see #sec:atoi), except that it returns a `double`.
 
