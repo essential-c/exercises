@@ -36,7 +36,7 @@ The expected output is:
 [2.500000, 1.100000, 12.420000]
 ```
 
-To check the correctness of your program, use a [suitable environment](../../README.md) and write your solution in a file named **`cast.c`**. In a terminal, with that file in the local directory, check with this command:
+To check the correctness of your program, use a [suitable environment](https://github.com/essential-c/devcontainer) and write your solution in a file named **`cast.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
 $ check50 -l --ansi-log olivierpierre/comp26020-problems/2025-2026/week4-compilation/05-cast

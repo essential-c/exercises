@@ -24,7 +24,7 @@ while others do:
 % TODO update URL
 You can download `sample-file-1` here.
 
-To check the correctness of your program, use a [suitable environment](../../README.md) and write your solution in a file named **`file.c`**. In a terminal, with that file in the local directory, check with this command:
+To check the correctness of your program, use a [suitable environment](https://github.com/essential-c/devcontainer) and write your solution in a file named **`file.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
 $ check50 03-mm-libc/08-file
