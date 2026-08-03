@@ -17,22 +17,22 @@ Here are some output examples:
 
 ```console
 # 5h11m44s + 12h30m3s = 17h41m47s
- ./struct 5 11 44 12 30 3
+$ ./struct 5 11 44 12 30 3
 17 41 47
 
 # 10h30m50s + 1h5m15s = 11h36m5s
- ./struct 10 30 50 1 5 15
+$ ./struct 10 30 50 1 5 15
 11 36 5
 
 # 14h12m5s + 22h5m0s = 36h17m5s
- ./struct 14 12 5 22 5 0
+$ ./struct 14 12 5 22 5 0
 36 17 5
 ```
 
 To check the correctness of your program, use a [suitable environment](../../README.md) and write your solution in a file named **`struct.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
- check50 02-basics/11-struct
+$ check50 02-basics/11-struct
 ```
 
 ---

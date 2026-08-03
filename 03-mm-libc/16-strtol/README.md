@@ -52,19 +52,19 @@ Modify the implementation of the function `convert_and_print` in this program to
 Output examples:
 
 ```console
- ./strtol
+$ ./strtol
 please enter an integer number (base 10): 1234
 you have entered: 1234
 
- ./strtol
+$ ./strtol
 please enter an integer number (base 10): foo
 invalid string
 
- ./strtol
+$ ./strtol
 please enter an integer number (base 10): 100000000000000000000
 under/overflow
 
- ./strtol 
+$ ./strtol 
 please enter an integer number (base 10): -100000000000000000000
 under/overflow
 ```

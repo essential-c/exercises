@@ -5,7 +5,7 @@ These parameters are converted to integer types into an array of `int` named `ar
 Then, the program iterates over the array and outputs if each number is even or odd as follows:
 
 ```console
- ./array2 1 2 3 4 5 6 
+$ ./array2 1 2 3 4 5 6 
 1 is odd 
 2 is even 
 3 is odd 
@@ -13,7 +13,7 @@ Then, the program iterates over the array and outputs if each number is even or 
 5 is odd 
 6 is even
 
- ./array2 5 5 120
+$ ./array2 5 5 120
 5 is odd
 5 is odd
 120 is even

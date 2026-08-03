@@ -21,14 +21,14 @@ Doing so, the string should no longer need to be indexed as an array and the pro
 The expected output is:
 
 ```console
- ./pointer4
+$ ./pointer4
 hello, world!
 ```
 
 To check the correctness of your program, use a [suitable environment](../../README.md) and write your solution in a file named **`pointer4.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
- check50 03-mm-libc/10-pointer4
+$ check50 03-mm-libc/10-pointer4
 ```
 
 ---

@@ -44,14 +44,14 @@ Replace the use of integers (including the type of the variable `d`) with that o
 The expected output is:
 
 ```console
- ./enum
+$ ./enum
 Today is: Wednesday
 ```
 
 To check the correctness of your program, use a [suitable environment](../../README.md) and write your solution in a file named **`enum.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
- check50 02-basics/12-enum
+$ check50 02-basics/12-enum
 ```
 
 ---

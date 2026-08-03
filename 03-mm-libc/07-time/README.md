@@ -4,10 +4,10 @@ Write a C program that takes an integer `n` as command line parameter and sleeps
 The execution time of the `sleep` function is measured and displayed as illustrated in the following examples of eecution and output:
 
 ```console
- ./time 3
+$ ./time 3
 sleep duration: 3.000184401 seconds
 
- ./time 5
+$ ./time 5
 sleep duration: 5.000073675 seconds
 ```
 

@@ -4,10 +4,10 @@ Write a program that takes list of integers as command line parameters, stores t
 Examples of execution and output of this program are given below:
 
 ```console
- ./malloc 5 4 3 2 1
+$ ./malloc 5 4 3 2 1
 1 2 3 4 5 
 
- ./malloc 546 874 18 13 87 54 4651 54 877 8 46351 87 654 657 654
+$ ./malloc 546 874 18 13 87 54 4651 54 877 8 46351 87 654 657 654
 8 13 18 54 54 87 87 546 654 654 657 874 877 4651 46351
 ```
 

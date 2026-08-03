@@ -5,10 +5,10 @@ These parameters are then converted to integer types and placed into an array of
 Then, the program sorts the array by increasing value and prints the result as follows:
 
 ```console
- ./array 5 4 6 2 1 3 
+$ ./array 5 4 6 2 1 3 
 1 2 3 4 5 6
 
- ./array 5 5 120
+$ ./array 5 5 120
 5 5 120
 ```
 

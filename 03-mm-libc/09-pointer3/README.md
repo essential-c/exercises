@@ -4,10 +4,10 @@ Write a program that takes an integer as parameter and places it in a variable o
 The program then proceeds to print the value as well as the address of the variable as follows:
 
 ```console
- ./pointer3 5
+$ ./pointer3 5
 Variable contains 5 and is located at address 0x7ffcc6d1d7fc
 
- ./pointer3 93
+$ ./pointer3 93
 Variable contains 93 and is located at address 0x7fffec3b3dfc
 ```
 

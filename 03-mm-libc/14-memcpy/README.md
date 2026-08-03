@@ -8,11 +8,11 @@ Finally, the program prints the content of both arrays.
 Below are two examples of this program's execution and output:
 
 ```console
- ./memcpy 10
+$ ./memcpy 10
 array1: 32 32 54 12 52 56 8 30 44 94
 array2: 32 32 54 12 52 56 8 30 44 94
 
- ./memcpy 15
+$ ./memcpy 15
 array1: 32 32 54 12 52 56 8 30 44 94 44 39 65 19 51
 array2: 32 32 54 12 52 56 8 30 44 94 44 39 65 19 51
 ```

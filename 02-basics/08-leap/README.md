@@ -18,9 +18,9 @@ else
 The output format should be as described in these examples:
 
 ```console
- ./leap 2000
+$ ./leap 2000
 2000 is a leap year
- ./leap 2100
+$ ./leap 2100
 2100 is not a leap year
 ```
 

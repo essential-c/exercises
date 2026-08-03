@@ -30,14 +30,14 @@ int main(int argc, char **argv) {
 Modify the second parameter of the call to `printf` in order to print the value of the third element by using the first member `lm1` and following the pointer chain leading to the value of `lm3`. The expected output is:
 
 ```console
- ./pointer2
+$ ./pointer2
 third member value is: 3
 ```
 
 To check the correctness of your program, use a [suitable environment](../../README.md) and write your solution in a file named **`pointer2.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
- check50 03-mm-libc/02-pointer2
+$ check50 03-mm-libc/02-pointer2
 ```
 
 ---

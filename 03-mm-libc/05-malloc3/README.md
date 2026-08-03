@@ -25,14 +25,14 @@ int main(int argc, char **argv) {
 
 The expected output is:
 ```console
- ./malloc3
+$ ./malloc3
 0 2 4 6 8 10 12 14 16 18
 ```
 
 To check the correctness of your program, use a [suitable environment](../../README.md) and write your solution in a file named **`malloc3.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
- check50 03-mm-libc/05-malloc3
+$ check50 03-mm-libc/05-malloc3
 ```
 
 ---

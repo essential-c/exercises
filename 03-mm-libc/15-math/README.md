@@ -4,14 +4,14 @@ Write a C program reading a `double` with `scanf` and asking the user if he want
 Next, the program performs the requested operation and displays the result. Output examples:
 
 ```console
- ./math
+$ ./math
 Input a number:
 12.4
 Input 0 for ceil, 1 for floor
 0
 13.000000
 
- ./math
+$ ./math
 Input a number:
 45.87
 Input 0 for ceil, 1 for floor

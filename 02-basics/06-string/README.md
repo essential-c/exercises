@@ -27,8 +27,8 @@ int main(int argc, char **argv) {
 However, when compiled and executed it prints additional garbage values:
 
 ```console
- gcc string.c -o string
- ./string
+$ gcc string.c -o string
+$ ./string
 hi there
 ?Fy+V
 ```

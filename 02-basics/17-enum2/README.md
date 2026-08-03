@@ -40,7 +40,7 @@ int main(int argc, char **argv) {
 The goal of the exercise is to write the definition of `flags` so that the program behaves correctly, i.e. it should produce the following output:
 
 ```console
- ./enum2
+$ ./enum2
 f1:
 FLAG1 enabled
 FLAG2 enabled
@@ -64,7 +64,7 @@ FLAG3 enabled
 To check the correctness of your program, use a [suitable environment](../../README.md) and write your solution in a file named **`enum2.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```c
- check50 02-basics/17-enum2
+$ check50 02-basics/17-enum2
 ```
 
 ---

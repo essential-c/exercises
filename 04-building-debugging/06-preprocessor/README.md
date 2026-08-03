@@ -49,7 +49,7 @@ Correct these issues by writing the proper include preprocessor directives.
 The expected output is:
 
 ```console
- ./preprocessor
+$ ./preprocessor
 Please enter the amount of random number to generate:
 10000000
 Generated 10000000 numbers in 0.084871 seconds
@@ -58,7 +58,7 @@ Generated 10000000 numbers in 0.084871 seconds
 To check the correctness of your program, use a [suitable environment](../../README.md) and, in a terminal, with all the mentioned source files in the local directory, check with this command:
 
 ```console
- check50 -l --ansi-log olivierpierre/comp26020-problems/2025-2026/week4-compilation/06-preprocessor
+$ check50 -l --ansi-log olivierpierre/comp26020-problems/2025-2026/week4-compilation/06-preprocessor
 ```
 
 ---

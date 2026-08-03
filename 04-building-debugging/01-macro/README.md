@@ -58,7 +58,7 @@ int main(int argc, char **argv) {
 This program generates a series of random numbers and outputs the distribution of their value into several bins:
 
 ```console
- ./macro
+$ ./macro
 bin 0: [000 - 020[ *******************
 bin 1: [020 - 040[ *******************
 bin 2: [040 - 060[ *******************
@@ -78,7 +78,7 @@ Define these macros to be 10 for `SAMPLE_SIZE` and 50 for `MAX_VAL`.
 An example of expected output is:
 
 ```console
- ./macro
+$ ./macro
 bin 0: [000 - 010[ 
 bin 1: [010 - 020[ **********
 bin 2: [020 - 030[ ********************

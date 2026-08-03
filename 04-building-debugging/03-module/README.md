@@ -76,7 +76,7 @@ Take care of including in C files only the necessary headers.
 The expected output is:
 
 ```console
- ./module
+$ ./module
 module3_function1 called with parameter CASE2
 res1: 84
 res2: 1.000000
@@ -86,7 +86,7 @@ res3: 1595255563434
 To check the correctness of your program, use a [suitable environment](../../README.md) and, in a terminal, with all the mentioned source files in the local directory, check with this command:
 
 ```console
- check50 -l --ansi-log olivierpierre/comp26020-problems/2025-2026/week4-compilation/03-module
+$ check50 -l --ansi-log olivierpierre/comp26020-problems/2025-2026/week4-compilation/03-module
 ```
 
 ---

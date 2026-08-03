@@ -4,14 +4,14 @@ Write a C program that reads two strings from the standard input using `fgets`, 
 The program should behave as shown in the following execution and output examples:
 
 ```console
- ./string
+$ ./string
 input string1:
 test
 input string2:
 test
 strings are similar
 
- ./string
+$ ./string
 input string1:
 hello world!
 input string2:

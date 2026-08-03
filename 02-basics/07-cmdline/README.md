@@ -3,10 +3,10 @@
 Write a C program that takes 3 floating point numbers as command line parameters and displays on the standard output the value of the multiplication of these 3 numbers. Examples of execution:
 
 ```console
- ./cmdline 1.0 2.0 3.0
+$ ./cmdline 1.0 2.0 3.0
 6.000000
 
- ./cmdline 1.45 2.78 3.25
+$ ./cmdline 1.45 2.78 3.25
 13.100750
 ```
 

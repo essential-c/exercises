@@ -68,7 +68,7 @@ int main(int argc, char **argv) {
 It is a variant of the program presented in the previous exercise, where many debug messages are printed on the standard output:
 
 ```console
- ./macro-conditional
+$ ./macro-conditional
 [DEBUG] Allocating memory
 [DEBUG] Allocation successfull
 [DEBUG] Filling array
@@ -88,12 +88,12 @@ Update the program so that the display of the debug output happens only when the
 Do not define the macro itself in the code, we will rather use the [-D](https://gcc.gnu.org/onlinedocs/gcc/Preprocessor-Options.html) gcc parameter to do so at compile time:
 
 ```console
- gcc -DDEBUGMODE macro-conditional.c -o macro-conditional
- ./macro-conditional
+$ gcc -DDEBUGMODE macro-conditional.c -o macro-conditional
+$ ./macro-conditional
 # Debug output displayed
 
 gcc macro-conditional.c -o macro-conditional
- ./macro-conditional
+$ ./macro-conditional
 # Debug output suppressed
 ```
 

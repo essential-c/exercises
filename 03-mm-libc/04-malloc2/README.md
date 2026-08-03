@@ -5,16 +5,16 @@ The numbers should be stored in a 2-dimensional array allocated with `malloc` be
 
 ```console
 # 3 rows, 4 columns
- ./malloc2 3 4
+$ ./malloc2 3 4
 0 1 2 3
 4 5 6 7
 8 9 10 11
 
- ./malloc2 2 5
+$ ./malloc2 2 5
 0 1 2 3 4
 5 6 7 8 9
 
- ./malloc2 10 11
+$ ./malloc2 10 11
 0 1 2 3 4 5 6 7 8 9 10
 11 12 13 14 15 16 17 18 19 20 21
 22 23 24 25 26 27 28 29 30 31 32
@@ -30,7 +30,7 @@ The numbers should be stored in a 2-dimensional array allocated with `malloc` be
 To check the correctness of your program, use a [suitable environment](../../README.md) and write your solution in a file named **`malloc2.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
- check50 03-mm-libc/04-malloc2
+$ check50 03-mm-libc/04-malloc2
 ```
 
 ---

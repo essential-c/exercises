@@ -8,15 +8,15 @@ This time, stream-based file I/O functions (`fopen`, `fread`, and `fwrite`) shou
 Here is an example of execution:
 
 ```console
- cat sample-file-1
+$ cat sample-file-1
 hello world
 this is a test file containing the word hello several times
 some lines do not contain that word
 while others do: hello
 
- ./stream sample-file-1 hello
+$ ./stream sample-file-1 hello
 
- cat sample-file-1-processed
+$ cat sample-file-1-processed
  world
 this is a test file containing the word  several times
 some lines do not contain that word
@@ -30,7 +30,7 @@ You download `sample-file-1` here.
 To check the correctness of your program, use a [suitable environment](../../README.md) and write your solution in a file named **`stream.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
- check50 03-mm-libc/17-stream
+$ check50 03-mm-libc/17-stream
 ```
 
 Make sure that `sample-file-1` is in the current directory alongside `stream.c`

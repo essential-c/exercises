@@ -4,7 +4,7 @@ Write a C program using `malloc` to allocate an array able to contain 10 `int`, 
 The expected output is:
 
 ```console
- ./malloc4
+$ ./malloc4
 0
 1
 2
@@ -20,7 +20,7 @@ The expected output is:
 To check the correctness of your program, use a [suitable environment](../../README.md) and write your solution in a file named **`malloc4.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
- check50 03-mm-libc/11-malloc4
+$ check50 03-mm-libc/11-malloc4
 ```
 
 ---

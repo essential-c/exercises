@@ -3,12 +3,12 @@
 Write a C program that reads a string from the standard input and capitalises the first letter of each word.
 
 ```console
- ./string2
+$ ./string2
 input a string:
 we swears, to serve the master of the precious
 We Swears, To Serve The Master Of The Precious
 
- ./string2
+$ ./string2
 input a string:
 and following our will and wind we may just go where no one's been
 And Following Our Will And Wind We May Just Go Where No One's Been

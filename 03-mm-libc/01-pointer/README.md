@@ -25,10 +25,10 @@ Modify the function `add` and its invocation so that it takes two `int` pointer 
 Some examples of output for the program are:
 
 ```console
- ./pointer 10 20
+$ ./pointer 10 20
 10 + 20 = 30
 
- ./pointer 154 -12
+$ ./pointer 154 -12
 154 + -12 = 142
 ```
 
