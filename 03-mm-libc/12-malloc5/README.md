@@ -74,7 +74,7 @@ after realloc, array[9] = 90
 > See the manual page for `memcpy`\footnote{\url{https://man7.org/linux/man-pages/man3/memcpy.3.html}} for more information.
 
 > **`realloc`.**
-> Note that the functionality that needs to be implemented in that exercise already exists in the form of the standard function `realloc` (see the relevant manual page\footnote{\url{https://man7.org/linux/man-pages/man3/realloc.3.html}}
+> Note that the functionality that needs to be implemented in that exercise already exists in the form of the standard function `realloc` (see the relevant manual [page](https://man7.org/linux/man-pages/man3/realloc.3.html)
 
 To check the correctness of your program, use a [suitable environment](../../README.md) and write your solution in a file named **`malloc5.c`**. In a terminal, with that file in the local directory, check with this command:
 
