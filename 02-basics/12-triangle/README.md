@@ -41,4 +41,4 @@ $ check50 02-basics/12-triangle
 
 ---
 
-[← Previous exercise](../14-factorial/README.md) | [Next exercise →](../16-triangle2/README.md)
+[← Previous exercise](../11-factorial/README.md) | [Next exercise →](../13-triangle2/README.md)

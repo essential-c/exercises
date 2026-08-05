@@ -47,4 +47,4 @@ $ ./check50 02-basics/14-typedef
 
 ---
 
-[← Previous exercise](../09-array/README.md) | [Next exercise →](../11-struct/README.md)
+[← Previous exercise](../13-triangle2/README.md) | [Next exercise →](../15-struct/README.md)

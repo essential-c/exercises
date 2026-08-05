@@ -24,11 +24,11 @@ while others do:
 To check the correctness of your program, use a [suitable environment](https://github.com/essential-c/devcontainer) and write your solution in a file named **`file.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
-$ check50 03-mm-libc/08-file
+$ check50 03-mm-libc/16-file
 ```
 
 Make sure that `sample-file-1` contains the same content as printed above, and is in the current directory alongside `file.c`.
 
 ---
 
-[← Previous exercise](../05-malloc3/README.md) | [Next exercise →](../11-malloc4/README.md)
+[← Previous exercise](../15-strtol/README.md) | [Next exercise →](../17-stream/README.md)

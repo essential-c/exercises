@@ -77,9 +77,9 @@ after realloc, array[9] = 90
 To check the correctness of your program, use a [suitable environment](https://github.com/essential-c/devcontainer) and write your solution in a file named **`malloc5.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
-$ check50 03-mm-libc/12-malloc5
+$ check50 03-mm-libc/09-malloc5
 ```
 
 ---
 
-[← Previous exercise](../10-pointer4/README.md) | [Next exercise →](../13-string2/README.md)
+[← Previous exercise](../10-string/README.md) | [Next exercise →](../12-memcpy/README.md)

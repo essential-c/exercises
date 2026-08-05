@@ -22,9 +22,9 @@ strings are different
 To check the correctness of your program, use a [suitable environment](https://github.com/essential-c/devcontainer) and write your solution in a file named **`string.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
-$ check50 03-mm-libc/06-string
+$ check50 03-mm-libc/10-string
 ```
 
 ---
 
-[← Previous exercise](../04-malloc2/README.md) | [Next exercise →](../07-time/README.md)
+[← Previous exercise](../09-malloc5/README.md) | [Next exercise →](../11-string2/README.md)

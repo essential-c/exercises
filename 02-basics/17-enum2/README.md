@@ -67,4 +67,4 @@ $ check50 02-basics/17-enum2
 
 ---
 
-[← Previous exercise](../16-triangle2/README.md) | [Next exercise →](../../03-mm-libc/01-pointer/README.md)
+[← Previous exercise](../16-enum/README.md) | [Next exercise →](../../03-mm-libc/01-pointer/README.md)

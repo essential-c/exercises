@@ -44,4 +44,4 @@ $ check50 02-basics/13-triangle2
 
 ---
 
-[← Previous exercise](../15-triangle/README.md) | [Next exercise →](../17-enum2/README.md)
+[← Previous exercise](../12-triangle/README.md) | [Next exercise →](../14-typedef/README.md)

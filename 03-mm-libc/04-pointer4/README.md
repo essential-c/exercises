@@ -28,9 +28,9 @@ hello, world!
 To check the correctness of your program, use a [suitable environment](https://github.com/essential-c/devcontainer) and write your solution in a file named **`pointer4.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
-$ check50 03-mm-libc/10-pointer4
+$ check50 03-mm-libc/04-pointer4
 ```
 
 ---
 
-[← Previous exercise](../09-pointer3/README.md) | [Next exercise →](../12-malloc5/README.md)
+[← Previous exercise](../02-pointer2/README.md) | [Next exercise →](../04-pointer4/README.md)

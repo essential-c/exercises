@@ -20,9 +20,9 @@ And Following Our Will And Wind We May Just Go Where No One's Been
 To check the correctness of your program, use a [suitable environment](https://github.com/essential-c/devcontainer) and write your solution in a file named **`string2.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
-$ check50 03-mm-libc/13-string2
+$ check50 03-mm-libc/11-string2
 ```
 
 ---
 
-[← Previous exercise](../12-malloc5/README.md) | [Next exercise →](../14-memcpy/README.md)
+[← Previous exercise](../10-string/README.md) | [Next exercise →](../12-memcpy/README.md)

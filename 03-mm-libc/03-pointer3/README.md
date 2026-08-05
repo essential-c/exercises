@@ -17,9 +17,9 @@ Variable contains 93 and is located at address 0x7fffec3b3dfc
 To check the correctness of your program, use a [suitable environment](https://github.com/essential-c/devcontainer) and write your solution in a file named **`pointer3.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
-$ check50 03-mm-libc/09-pointer3
+$ check50 03-mm-libc/03-pointer3
 ```
 
 ---
 
-[← Previous exercise](../07-time/README.md) | [Next exercise →](../10-pointer4/README.md)
+[← Previous exercise](../02-pointer2/README.md) | [Next exercise →](../04-pointer4/README.md)

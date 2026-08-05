@@ -32,9 +32,9 @@ $ ./malloc3
 To check the correctness of your program, use a [suitable environment](https://github.com/essential-c/devcontainer) and write your solution in a file named **`malloc3.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
-$ check50 03-mm-libc/05-malloc3
+$ check50 03-mm-libc/07-malloc3
 ```
 
 ---
 
-[← Previous exercise](../../02-basics/17-enum2/README.md) | [Next exercise →](../08-file/README.md)
+[← Previous exercise](../../02-basics/08-leap/README.md) | [Next exercise →](../09-malloc5/README.md)

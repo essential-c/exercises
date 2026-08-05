@@ -37,4 +37,4 @@ $ check50 02-basics/15-struct
 
 ---
 
-[← Previous exercise](../10-typedef/README.md) | [Next exercise →](../12-enum/README.md)
+[← Previous exercise](../14-typedef/README.md) | [Next exercise →](../16-enum/README.md)

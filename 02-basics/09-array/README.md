@@ -20,4 +20,4 @@ $ check50 02-basics/09-array
 
 ---
 
-[← Previous exercise](../08-leap/README.md) | [Next exercise →](../10-typedef/README.md)
+[← Previous exercise](../08-leap/README.md) | [Next exercise →](../10-array2/README.md)

@@ -56,4 +56,4 @@ $ check50 02-basics/16-enum
 
 ---
 
-[← Previous exercise](../11-struct/README.md) | [Next exercise →](../13-array2/README.md)
+[← Previous exercise](../15-struct/README.md) | [Next exercise →](../17-enum2/README.md)

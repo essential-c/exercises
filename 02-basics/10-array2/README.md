@@ -31,4 +31,4 @@ $ check50 02-basics/10-array2
 
 ---
 
-[← Previous exercise](../12-enum/README.md) | [Next exercise →](../14-factorial/README.md)
+[← Previous exercise](../09-array/README.md) | [Next exercise →](../11-factorial/README.md)

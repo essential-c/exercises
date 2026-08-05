@@ -72,9 +72,9 @@ under/overflow
 To check the correctness of your program, use a [suitable environment](https://github.com/essential-c/devcontainer) and write your solution in a file named **`strtol.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
-$ check50 03-mm-libc/16-strtol
+$ check50 03-mm-libc/15-strtol
 ```
 
 ---
 
-[← Previous exercise](../15-math/README.md) | [Next exercise →](../17-stream/README.md)
+[← Previous exercise](../14-time/README.md) | [Next exercise →](../16-file/README.md)

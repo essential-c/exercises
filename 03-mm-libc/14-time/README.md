@@ -14,9 +14,9 @@ sleep duration: 5.000073675 seconds
 To check the correctness of your program, use a [suitable environment](https://github.com/essential-c/devcontainer) and write your solution in a file named **`time.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
-check50 03-mm-libc/07-time
+check50 03-mm-libc/14-time
 ```
 
 ---
 
-[← Previous exercise](../06-string/README.md) | [Next exercise →](../09-pointer3/README.md)
+[← Previous exercise](../13-math/README.md) | [Next exercise →](../15-strtol/README.md)

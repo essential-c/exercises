@@ -22,9 +22,9 @@ Input 0 for ceil, 1 for floor
 To check the correctness of your program, use a [suitable environment](https://github.com/essential-c/devcontainer) and write your solution in a file named **`math.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
-$ check50 03-mm-libc/15-math
+$ check50 03-mm-libc/13-math
 ```
 
 ---
 
-[← Previous exercise](../11-malloc4/README.md) | [Next exercise →](../16-strtol/README.md)
+[← Previous exercise](../12-memcpy/README.md) | [Next exercise →](../14-time/README.md)

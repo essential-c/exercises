@@ -20,9 +20,9 @@ array2: 32 32 54 12 52 56 8 30 44 94 44 39 65 19 51
 To check the correctness of your program, use a [suitable environment](https://github.com/essential-c/devcontainer) and write your solution in a file named **`memcpy.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
-$ check50 03-mm-libc/14-memcpy
+$ check50 03-mm-libc/12-memcpy
 ```
 
 ---
 
-[← Previous exercise](../13-string2/README.md) | [Next exercise →](../../04-building-debugging/01-macro/README.md)
+[← Previous exercise](../11-string2/README.md) | [Next exercise →](../13-math/README.md)

@@ -14,9 +14,9 @@ $ ./malloc 546 874 18 13 87 54 4651 54 877 8 46351 87 654 657 654
 To check the correctness of your program, use a [suitable environment](https://github.com/essential-c/devcontainer) and write your solution in a file named **`malloc.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
-$ check50 03-mm-libc/03-malloc
+$ check50 03-mm-libc/05-malloc
 ```
 
 ---
 
-[← Previous exercise](../02-pointer2/README.md) | [Next exercise →](../04-malloc2/README.md)
+[← Previous exercise](../04-pointer4/README.md) | [Next exercise →](../06-malloc2/README.md)
