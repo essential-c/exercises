@@ -51,7 +51,7 @@ Today is: Wednesday
 To check the correctness of your program, use a [suitable environment](https://github.com/essential-c/devcontainer) and write your solution in a file named **`enum.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
-$ check50 02-basics/12-enum
+$ check50 02-basics/16-enum
 ```
 
 ---

@@ -39,7 +39,7 @@ When the integer parameter `n` is even, the program corrects it to the next odd 
 To check the correctness of your program, use a [suitable environment](https://github.com/essential-c/devcontainer) and write your solution in a file named **`triangle2.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```c
-$ check50 02-basics/16-triangle2
+$ check50 02-basics/13-triangle2
 ```
 
 ---

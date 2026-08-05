@@ -26,7 +26,7 @@ $ ./array2 5 5 120
 To check the correctness of your program, use a [suitable environment](https://github.com/essential-c/devcontainer) and write your solution in a file named **`array2.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
-$ check50 02-basics/13-array2
+$ check50 02-basics/10-array2
 ```
 
 ---
