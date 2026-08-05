@@ -23,8 +23,7 @@ some lines do not contain that word
 while others do: 
 ```
 
-% TODO fixup the link
-You download `sample-file-1` here.
+The file `sample-file-1` can be downloaded [here](./sample-file-1).
 
 % TODO remove the "you" from that sentence (present with all exercises)?
 To check the correctness of your program, use a [suitable environment](https://github.com/essential-c/devcontainer) and write your solution in a file named **`stream.c`**. In a terminal, with that file in the local directory, check with this command:

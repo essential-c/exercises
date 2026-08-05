@@ -21,16 +21,13 @@ some lines do not contain that word
 while others do: 
 ```
 
-% TODO update URL
-You can download `sample-file-1` here.
-
 To check the correctness of your program, use a [suitable environment](https://github.com/essential-c/devcontainer) and write your solution in a file named **`file.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
 $ check50 03-mm-libc/08-file
 ```
 
-Make sure that `sample-file-1` is in the current directory alongside `file.c`.
+Make sure that `sample-file-1` contains the same content as printed above, and is in the current directory alongside `file.c`.
 
 ---
 
