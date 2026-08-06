@@ -1,5 +1,3 @@
-% TODO when forgetting the free in this (and possibly in other) exercises, it seems check50 fails to properly parse the output of valgrind to detect the leak
-
 ## Copying Data in Memory with `memcpy`
 
 Write a C program that takes an integer `n` as command line parameter, allocates an array of integer of size `n`, and fills that array with random integers which values fall between 0 and 100.
