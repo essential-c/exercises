@@ -39,9 +39,9 @@ The expected output is:
 To check the correctness of your program, use a [suitable environment](https://github.com/essential-c/devcontainer) and write your solution in a file named **`cast.c`**. In a terminal, with that file in the local directory, check with this command:
 
 ```console
-$ check50 -l --ansi-log olivierpierre/comp26020-problems/2025-2026/week4-compilation/05-cast
+$ check50 03-mm-libc/18-cast
 ```
 
 ---
 
-[← Previous exercise](../04-makefile/README.md) | [Next exercise →](../06-preprocessor/README.md)
+[← Previous exercise](../17-stream/README.md) | [Next exercise →](../19-funcptr/README.md)
