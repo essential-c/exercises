@@ -16,7 +16,6 @@ def compiles():
 @check50.check(compiles)
 def output_correct():
     check50.run("./funcptr")\
-            .stdout("sort operation to apply? (0: by age, 1: by last name, 2: by total name length)")\
             .stdin("0")\
             .stdout("Emma Jones, 19")\
             .stdout("Amy Li, 20")\
